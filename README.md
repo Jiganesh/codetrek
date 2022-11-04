@@ -94,16 +94,26 @@ Offer Accepted
 
 
 Key takeaways and learnings from my mistake:
-- Remember you just need to solve one question a day that's it that's the secret.Nothing more Nothing less. This statergy avoids depression, burnout and maintains consistency and helps to get whatever you studied absorbed.
+- Remember you just need to solve one question a day that's it that's the secret.Nothing more Nothing less. This statergy avoids depression, burnout and maintains consistency and helps to get whatever you studied absorbed. 
+
 - Rather than solving three questions try to solve one question with three approaches (this thing exponentially improved problem solving skills)
+
 - Read others code a lot. 
+
 - If a  beginner better to go with Java (I choose python - realized not good in long run switching to Java)
+
 - Better to go through GFG and Codeforces once in a while. 
+
 - Focus a lot on development for long run (70-80 % development and 30-20 % DSA) is good combination ) (one of the things I didnt realize)
+
 - stay consistent (no longer break than a week its fine to take a day off I think you must take a day off in month to avoid burnout)
+
 - Dont forget to do system design, 20-30 % of the time Bar Raisers are system design rounds
+
 - Every thing takes time DSA certainly does hang on to it for 1 or 2 years
+
 - Quality >>>> Quantity 
+
 - Focus on Medium Leetcode Questions
 
 
