@@ -47,8 +47,9 @@ Didnt Accept Offer
 
 March - Applied to Amazon
 
+OA + Behavioural Question
+
 Round 1 - Two Medium Questions (prefix sum and  bucket sort variation) 
-- behavioural round
 
 Round 2 - Two easy warmup basic programming questions, Discussion on BT and Traversal.
 Traversal Code in Iterative approach - standard
