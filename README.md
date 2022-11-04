@@ -20,7 +20,7 @@ Cleared Round 1 HackwithInfy  (Easy, Medium-Hard, Hard)
 
 Cleared Round 2 HackwithInfy  (Medium, Medium-Hard, Hard) 
 
-Cleared Round 3 InfyTQ
+Cleared Round 2 InfyTQ
 
 Fourth Year Started:
 
