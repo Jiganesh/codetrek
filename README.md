@@ -1,4 +1,4 @@
-# Code_Trek
+# CODETREK
 
 
 Third Year Second Semester:
