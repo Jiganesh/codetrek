@@ -60,7 +60,7 @@ Average Interview - Project based Questions, HR Questions (Got Offer for 6.5 LPA
 
 Didnt Accept Offer
 
-March - Applied to Amazon
+March - Applied to Amazon (No Referral applied from Jobs Portal)
 
 OA + Behavioural Question
 
