@@ -94,7 +94,7 @@ Offer Accepted
 
 
 Key takeaways and learnings from my mistake:
-- Remember you just need to solve one question a day that's it that's the secret.Nothing more Nothing less. This statergy avoids depression, burnout and maintains consistency and helps to get whatever you studied absorbed. 
+- Remember you just need to solve one question a day that's it that's the secret.Nothing more Nothing less. This statergy avoids depression, burnout and maintains consistency and helps to get whatever you studied absorbed. I loved programming so I used to hit 16 hours daily doing it - office work included
 
 - Rather than solving three questions try to solve one question with three approaches (this thing exponentially improved problem solving skills)
 
