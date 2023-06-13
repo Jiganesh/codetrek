@@ -37,6 +37,7 @@ POST Graduation ARC
 
 - Joined Infosys in September 2022
 - Done with Training ( Just after 3-4 weeks I got allocated to good project early so no further training or bench for me)
+- I also gave applied from Amazon job portal but was not able to understand question - `31st October 2021`
 - I was allocated Big Data Stream which I chose during my Training (Really Loved the Project I was allocated)
 - I also gave an Interview for Accenture 4.5 LPA Role (Randomly applied because I was bored)
   - Average Interview - Project based Questions, HR Questions (Got Offer for 6.5 LPA role)
@@ -73,7 +74,7 @@ POST Graduation ARC
   - Stack Medium Question
   - Linkedlist + Math Medium-Hard Question
 
-Offer Letter came after a month - `I Accepted obviously`
+Offer Letter came after a month in July - `I Accepted obviously` and joined on `31st October 2022`
 
 
 ### Key takeaways and learnings from my mistake
