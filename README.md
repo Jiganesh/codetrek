@@ -49,7 +49,8 @@ POST Graduation ARC
 - Resources used
   - [Leetcode](https://leetcode.com/Jiganesh/)
   - [Coding Decoded Youtube Channel](https://www.youtube.com/@CodeWithSunchitDudeja)
-  - [Take U Forward](https://www.youtube.com/@takeUforward)
+  - [Coding Decoded GitHub Repository](https://github.com/Sunchit/Coding-Decoded) Best DSA sheets 
+  - [Take U Forward](https://www.youtube.com/@takeUforward) 
   - [Algorithms Made Easy](https://www.youtube.com/@AlgorithmsMadeEasy)
   - [Programming Live With Larry](https://www.youtube.com/@Algorithmist)
   - Especially for DP [Aditya Verma](https://www.youtube.com/@TheAdityaVerma), [DP Problems](https://github.com/Jiganesh/Loads-Of-Logic/tree/main/dynamicProgramming)
