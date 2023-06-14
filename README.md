@@ -33,7 +33,7 @@
 Did Some Java and Javascript
 Didn't do much programming after that just random stuff enjoyed as I already had offer (shouldnt have done that)
 
-POST Graduation ARC
+### POST Graduation ARC
 
 - Joined Infosys in September 2022
 - Done with Training ( Just after 3-4 weeks I got allocated to good project early so no further training or bench for me)
