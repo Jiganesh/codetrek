@@ -103,7 +103,7 @@ The Project is said to be good when you
 - work with Teams or other people showing soft skills
 
 
-## How to get good at problem solving (DSA and Development)
+### How to get good at problem solving (DSA and Development)
 
 strategy + consistency / discipline + experience
 
