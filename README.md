@@ -115,7 +115,7 @@ strategy + consistency / discipline + experience
 
 - When you try to learn these are the thing that can happen to you. (consistency / discipline)
   - Overwhelmed / not able to keep
-    - Simple answer : Just dont, beleive in yourself. Developing your problem solving takes time and it gets easier just keep going
+    - Simple answer : Just dont, believe in yourself. Developing your problem solving takes time and it gets easier just keep going
     - See more resources for the point discussed, do some research on topic you did not understand try to close the gap of unknown
   - Learned and forgot
     - The problem here is practice. Practice all learnings of week on weekends 
