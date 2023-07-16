@@ -102,5 +102,38 @@ The Project is said to be good when you
 - have fun building it and get lots of learnings 
 - work with Teams or other people showing soft skills
 
+
+## How to get good at problem solving (DSA and Development)
+
+strategy + consistency / discipline + experience
+
+- When you are starting with problem solving be it DSA or Development choosing right resource is first step. (strategy)
+  - Explore various resources on the topic you want to learn, there are lot of free resource spend some time checking them (experimenting)
+  - Choose correct / understandable way of learning from those resources, look for completeness of resources (half knowledge is dangerous)
+  - Once you find the perfect resource start learning.
+  - Use standard / trusted resources, dont join any courses just because of fomo (make your decisions on facts and situations)
+
+- When you try to learn these are the thing that can happen to you. (consistency / discipline)
+  - Overwhelmed / not able to keep
+    - Simple answer : Just dont, beleive in yourself. Developing your problem solving takes time and it gets easier just keep going
+    - See more resources for the point discussed, do some research on topic you did not understand try to close the gap of unknown
+  - Learned and forgot
+    - The problem here is practice. Practice all learnings of week on weekends 
+    - Try to teach other people / friends, that way you wont forget easily
+  - Not able to see any improvement
+    - The process is exponential, You wont see any progress and suddenly you will solve all the problem in contest
+    - Be consistent
+
+- When you get your groove, feel little confident (experience)
+  - Increase difficulty
+  - Increase your pace
+  - Teach others
+  - Practice more
+  - Dive Deep 
+
+Dont get the wrong idea of being consistent missing one or two days in week is okay. Just dont give up in between that's my definition of being consistent.
+
+
+
 ### ONE QUESTION A DAY KEEPS UNEMPLOYMENT AWAY
 
