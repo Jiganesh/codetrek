@@ -107,22 +107,22 @@ The Project is said to be good when you
 
 strategy + consistency / discipline + experience
 
-- When you are starting with problem solving be it DSA or Development choosing right resource is first step. (strategy)
-  - Explore various resources on the topic you want to learn, there are lot of free resource spend some time checking them (experimenting)
+- When you are starting with problem solving be it DSA or Development, choosing right resource is first step. (strategy)
+  - Explore various resources on the topic you want to learn, there are lot of free resources spend some time checking them out (experimenting)
   - Choose correct / understandable way of learning from those resources, look for completeness of resources (half knowledge is dangerous)
-  - Once you find the perfect resource start learning.
+  - Once you find the perfect resource start learning and dont jump on other resource or else you just create a loop.
   - Use standard / trusted resources, dont join any courses just because of fomo (make your decisions on facts and situations)
 
 - When you try to learn these are the thing that can happen to you. (consistency / discipline)
-  - Overwhelmed / not able to keep
-    - Simple answer : Just dont, believe in yourself. Developing your problem solving takes time and it gets easier just keep going
-    - See more resources for the point discussed, do some research on topic you did not understand try to close the gap of unknown
-  - Learned and forgot
-    - The problem here is practice. Practice all learnings of week on weekends 
+  - Overwhelmed / not able to keep up 
+    - Simple answer : Just dont be overwhelmed, believe in yourself. Developing your problem solving skills takes time and it gets easier, just keep going.
+    - See more resources for the point discussed, do some research on topic you did not understand, try to close the gap of unknown.
+  - Learned and forgot it
+    - The problem here is not enough practice and revision. Practice all learnings of week on weekends.
     - Try to teach other people / friends, that way you wont forget easily
-  - Not able to see any improvement
-    - The process is exponential, You wont see any progress and suddenly you will solve all the problem in contest
-    - Be consistent
+  - Not able to see any improvements
+    - The process has exponential learning curve, You wont see any progress and suddenly you will solve all the problem in contest
+    - Be consistent.
 
 - When you get your groove, feel little confident (experience)
   - Increase difficulty
