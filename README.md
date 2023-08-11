@@ -143,7 +143,8 @@ Subject: Referral for <Position> at <Company> <Location> <Job ID>
 
 Hello Sir/Mam
 
-I am <Requester>, <blah blah> year student from <College Name>. I am interested in applying for <Position> at <Company> <Location> <Job ID>.
+I am <Requester>, <blah blah> year student from <College Name>.
+I am interested in applying for <Position> at <Company> <Location> <Job ID>.
 <Something positive and Why you should be referred but keep it super short>
 
 Here is my Portfolio and Resume Drive Link
