@@ -135,7 +135,7 @@ Dont get the wrong idea of being consistent missing one or two days in week is o
 
 
 
-###  How to ask for Refferal
+###  How to ask for referral ?
 
 Referral Template : 
 ```
@@ -153,7 +153,7 @@ Resume : <Requester>_Resume.pdf
 Thank you for your time, Please update the status to me regarding the request.
 ```
 
-While applying via refferal take care of following things:
+While applying via referral take care of following things:
 
 - You havent applied to same job id with multiple profiles (email-ids).
 - You havent applied to the Job Id and not have a draft application as well for the position.
