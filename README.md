@@ -135,5 +135,32 @@ Dont get the wrong idea of being consistent missing one or two days in week is o
 
 
 
+###  How to ask for Refferal
+
+Referral Template : 
+```
+Subject: Referral for <Position> at <Company> <Location> <Job ID>
+
+Hello Sir/Mam
+
+I am <Requester>, <blah blah> year student from <College Name>. I am interested in applying for <Position> at <Company> <Location> <Job ID>.
+<Something positive and Why you should be referred but keep it super short>
+
+Here is my Portfolio and Resume Drive Link
+Portfolio : 
+Resume : <Requester>_Resume.pdf
+
+Thank you for your time, Please update the status to me regarding the request.
+```
+
+While applying via refferal take care of following things:
+
+- You havent applied to same job id with multiple profiles (email-ids).
+- You havent applied to the Job Id and not have a draft application as well for the position.
+- No one already referred you for same Job Id.
+- Someone else has referred you then its better to ask that same person again if applying again.
+- Ask them to provide endorsed referral.
+- If someone does not want to refer respect their choice and ask for feedback/reason.
+
 ### ONE QUESTION A DAY KEEPS UNEMPLOYMENT AWAY
 
