@@ -3,9 +3,10 @@
 
 <details>
 
-## <summary>My Coding Journey</summary>
+<summary>My Coding Journey</summary>
 
 **Third Year Second Semester ARC**
+
 - Learned Python, DBMS, DSA basics for InfyTQ (Infosys Exam)
 - Used *HackerRank*, *Codewars*, *Hackerearth* (Has difficult problems for beginner)
 - Used to refer youtube channels and books :
@@ -101,7 +102,7 @@ Offer Letter came after a month in July - `I Accepted obviously` and joined on `
 
 
 <details>
-## <summary>How to make good Projects</summary>
+<summary>How to make good Projects</summary>
 
 The Project is said to be good when you 
 - or others can use it in their day to day life.
@@ -114,7 +115,7 @@ The Project is said to be good when you
 
 <details>
 
-## <summary>How to get good at problem solving (DSA and Development)</summary>
+<summary>How to get good at problem solving (DSA and Development)</summary>
 
 strategy + consistency / discipline + experience
 
@@ -147,7 +148,7 @@ Dont get the wrong idea of being consistent missing one or two days in week is o
 
 <details>
 
-<summary> ## How to ask for referral ?</summary>
+<summary> How to ask for referral ?</summary>
 
 Referral Template : 
 ```
@@ -178,7 +179,7 @@ While applying via referral take care of following things:
 </details>
 
 <details>
-## <summary>Jiggy Quotes</summary>
+<summary>Jiggy Quotes</summary>
 
 - ONE QUESTION A DAY KEEPS UNEMPLOYMENT AWAY
 
