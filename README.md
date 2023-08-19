@@ -1,7 +1,11 @@
 # CODETREK
 
 
-### Third Year Second Semester ARC
+<details>
+
+<summary>My Coding Journey</summary>
+
+**Third Year Second Semester ARC**
 - Learned Python, DBMS, DSA basics for InfyTQ (Infosys Exam)
 - Used *HackerRank*, *Codewars*, *Hackerearth* (Has difficult problems for beginner)
 - Used to refer youtube channels and books :
@@ -19,7 +23,7 @@
 - Cleared Round 2 HackwithInfy  (Medium, Medium-Hard, Hard) 
 - Cleared Round 2 InfyTQ
 
-### Fourth Year First Semester ARC
+**Fourth Year First Semester ARC**
 
 - Preparing for Infosys Interview
 - Studied OS, CN, DBMS + SQL (a lot) + DSA (a lot) + Some fundamentals of CPP, Java, JS and Projects
@@ -29,11 +33,11 @@
   - Some real life usecase and problem solving + DSA + DBMS Questions 
   - Got Offer for Infytq 3.6 lpa and HackwithInfy 5 lpa - December 2020
 
-### Fourth Year Second Semester ARC
+**Fourth Year Second Semester ARC**
 Did Some Java and Javascript
 Didn't do much programming after that just random stuff enjoyed as I already had offer (shouldnt have done that)
 
-### POST Graduation ARC
+**POST Graduation ARC**
 
 - Joined Infosys in September 2022
 - Done with Training ( Just after 3-4 weeks I got allocated to good project early so no further training or bench for me)
@@ -43,7 +47,7 @@ Didn't do much programming after that just random stuff enjoyed as I already had
   - Average Interview - Project based Questions, HR Questions (Got Offer for 6.5 LPA role)
   - Didnt Accept Offer of 6.5 LPA with Accenture because Infosys was paying 6.25 LPA later
 
-### The GRIND ARC
+**The GRIND ARC**
 
 - Started doing DSA in November
 - Resources used
@@ -54,7 +58,7 @@ Didn't do much programming after that just random stuff enjoyed as I already had
   - [Programming Live With Larry](https://www.youtube.com/@Algorithmist)
   - Especially for DP [Aditya Verma](https://www.youtube.com/@TheAdityaVerma), [DP Problems](https://github.com/Jiganesh/Loads-Of-Logic/tree/main/dynamicProgramming)
 
-### The DAY ONE ARC 
+**The DAY ONE ARC**
 
 - In March I applied to Amazon from Job Portal for Role of `SDE 1` (No Referal)
 - Link for OA was mailed. 
@@ -77,7 +81,7 @@ Didn't do much programming after that just random stuff enjoyed as I already had
 Offer Letter came after a month in July - `I Accepted obviously` and joined on `31st October 2022`
 
 
-### Key takeaways and learnings from my mistake
+**Key takeaways and learnings from my mistake**
 - Remember you just need to solve one question a day that's it that's the secret.
 - Nothing more Nothing less. This statergy avoids depression, burnout and maintains consistency and helps to get whatever you studied absorbed. 
 - I loved programming so I used to hit 16 hours daily doing it - office work included
@@ -92,7 +96,11 @@ Offer Letter came after a month in July - `I Accepted obviously` and joined on `
 - Quality >>>> Quantity 
 - Focus on Medium Leetcode Questions
 
-### How to make good Projects 
+</details>
+
+
+<details>
+<summary>How to make good Projects</summary>
 
 The Project is said to be good when you 
 - or others can use it in their day to day life.
@@ -101,9 +109,11 @@ The Project is said to be good when you
 - build it end to end from architecture/design to deployment and can explain in depth about it
 - have fun building it and get lots of learnings 
 - work with Teams or other people showing soft skills
+</details>
 
+<details>
 
-### How to get good at problem solving (DSA and Development)
+<summary>How to get good at problem solving (DSA and Development)</summary>
 
 strategy + consistency / discipline + experience
 
@@ -132,10 +142,11 @@ strategy + consistency / discipline + experience
   - Dive Deep 
 
 Dont get the wrong idea of being consistent missing one or two days in week is okay. Just dont give up in between that's my definition of being consistent.
+</details>
 
+<details>
 
-
-###  How to ask for referral ?
+<summary>How to ask for referral ?</summary>
 
 Referral Template : 
 ```
@@ -163,5 +174,14 @@ While applying via referral take care of following things:
 - Ask them to provide endorsed referral.
 - If someone does not want to refer respect their choice and ask for feedback/reason.
 
-### ONE QUESTION A DAY KEEPS UNEMPLOYMENT AWAY
+</details>
+
+<details>
+<summary>Quotes from yours only Jiggy</summary>
+
+- ONE QUESTION A DAY KEEPS UNEMPLOYMENT AWAY
+
+- THE ONE WHO COMPLAINS IS NOT CAPABLE
+
+</details>
 
