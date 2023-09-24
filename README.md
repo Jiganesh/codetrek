@@ -178,6 +178,17 @@ While applying via referral take care of following things:
 
 </details>
 
+
+<details>
+<summary>Resume Templates</summary>
+
+- Jiganesh's Resume Template [Easy to build, less ATS Friendly](https://www.canva.com/design/DAFuE1J9wuA/mRrDwT6BqEdrzLJj6W17YQ/view?utm_content=DAFuE1J9wuA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+- Your can easily make your resume friendly with [latex code generator](https://converter.app/pdf-to-latex/result.php?lang=en)
+
+</details>
+
+
 <details>
 <summary>Jiggy Quotes</summary>
 
